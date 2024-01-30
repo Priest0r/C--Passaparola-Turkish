@@ -1,0 +1,10 @@
+C:\Users\emrer\OneDrive\Desktop\UdemyDers\Pasaparolla\Pasaparolla\bin\Debug\Pasaparolla.exe.config
+C:\Users\emrer\OneDrive\Desktop\UdemyDers\Pasaparolla\Pasaparolla\bin\Debug\Pasaparolla.exe
+C:\Users\emrer\OneDrive\Desktop\UdemyDers\Pasaparolla\Pasaparolla\bin\Debug\Pasaparolla.pdb
+C:\Users\emrer\OneDrive\Desktop\UdemyDers\Pasaparolla\Pasaparolla\obj\Debug\Pasaparolla.csproj.AssemblyReference.cache
+C:\Users\emrer\OneDrive\Desktop\UdemyDers\Pasaparolla\Pasaparolla\obj\Debug\Pasaparolla.Properties.Resources.resources
+C:\Users\emrer\OneDrive\Desktop\UdemyDers\Pasaparolla\Pasaparolla\obj\Debug\Pasaparolla.csproj.GenerateResource.cache
+C:\Users\emrer\OneDrive\Desktop\UdemyDers\Pasaparolla\Pasaparolla\obj\Debug\Pasaparolla.csproj.CoreCompileInputs.cache
+C:\Users\emrer\OneDrive\Desktop\UdemyDers\Pasaparolla\Pasaparolla\obj\Debug\Pasaparolla.exe
+C:\Users\emrer\OneDrive\Desktop\UdemyDers\Pasaparolla\Pasaparolla\obj\Debug\Pasaparolla.pdb
+C:\Users\emrer\OneDrive\Desktop\UdemyDers\Pasaparolla\Pasaparolla\obj\Debug\Pasaparolla.Form1.resources
